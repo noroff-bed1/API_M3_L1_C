@@ -1,0 +1,7 @@
+HOST = "localhost"
+ADMIN_USERNAME =
+ADMIN_PASSWORD =
+DATABASE_NAME =
+DIALECT = "mysql"
+DIALECTMODEL = "mysql2"
+PORT = "3000"
